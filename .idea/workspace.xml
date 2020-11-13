@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac572577-2f07-4bef-9acf-979ae356b88a" name="Default Changelist" comment="" />
+    <list default="true" id="ac572577-2f07-4bef-9acf-979ae356b88a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +30,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../contrix" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -43,6 +53,7 @@
       <workItem from="1605171580652" duration="18562000" />
       <workItem from="1605251066718" duration="13221000" />
       <workItem from="1605264714742" duration="6535000" />
+      <workItem from="1605272235827" duration="2918000" />
     </task>
     <servers />
   </component>
@@ -70,5 +81,9 @@
       <screen x="72" y="27" width="4238" height="1053" />
     </state>
     <state x="383" y="174" width="672" height="677" key="run.anything.popup/72.27.4238.1053@72.27.4238.1053" timestamp="1605186087117" />
+    <state x="706" y="262" key="search.everywhere.popup" timestamp="1605274505143">
+      <screen x="0" y="22" width="1920" height="1058" />
+    </state>
+    <state x="706" y="262" key="search.everywhere.popup/0.22.1920.1058@0.22.1920.1058" timestamp="1605274505143" />
   </component>
 </project>
